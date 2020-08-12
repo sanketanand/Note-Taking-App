@@ -1,1 +1,5 @@
-NOTE - taking app with CRUD operations
+A simple note taking app which allows a user to perform CRUD operations.
+
+User can make notes and a unique id will automatically get generated for a particular note.
+
+SQLite which is an in memory database is used for storing of notes.
